@@ -1,0 +1,7 @@
+MOVIE TITLE                                                                                   MOVIE RATING
+Phantom Thread 77
+Dog Day Afternoon8
+The Little Mermaid9
+The Lion King7
+You watched a total of 4 movies.
+Your average movie rating is 7.8.
